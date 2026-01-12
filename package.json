@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "event-kampus",
-=======
-  "name": "app-event-kampus",
->>>>>>> 6484e19 (Initial commit)
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,25 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "next": "16.0.8",
-    "react": "19.2.1",
-    "react-dom": "19.2.1"
-=======
-    "next": "16.1.1",
-    "react": "19.2.3",
-    "react-dom": "19.2.3"
->>>>>>> 6484e19 (Initial commit)
+    "embla-carousel-autoplay": "^8.3.0",
+    "embla-carousel-react": "^8.3.0",
+    "next": "15.1.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "babel-plugin-react-compiler": "1.0.0",
-    "eslint": "^9",
-<<<<<<< HEAD
-    "eslint-config-next": "16.0.8",
-=======
-    "eslint-config-next": "16.1.1",
->>>>>>> 6484e19 (Initial commit)
-    "tailwindcss": "^4"
+    "eslint": "^8",
+    "eslint-config-next": "15.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
   }
 }
