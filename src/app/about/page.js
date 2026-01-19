@@ -3,7 +3,7 @@ import Footer from '@/components/Footer';
 import Image from 'next/image';
 
 export const metadata = {
-  title: 'Tentang Aplikasi | Event Kampus UNH',
+  title: 'Tentang Aplikasi | Event Kampus UNUHA',
   description: 'Informasi tentang Sistem Informasi Event Kampus Universitas Nurul Huda'
 };
 
@@ -80,8 +80,8 @@ export default function About() {
         {/* Creative Hero Section with Unsplash Background */}
         <div className="relative py-20 md:py-32 overflow-hidden">
           <Image
-            src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?q=80&w=2070&auto=format&fit=crop"
-            alt="Kampus Background"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy-_RBQzY9pZl4ESfyj5rot7GK4hCjqDZssDNWkvKgtt4JzIbvDZs-fPsGhATsFCkKtw&usqp=CAU"
+            alt=""
             fill
             className="object-cover"
             priority
